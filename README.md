@@ -1,4 +1,11 @@
-TE: THIS IS FOR NEW INSTALL ONLY!
+/////////////////////////////////
+///       OpenCart V2.0.x     ///
+///    Install Instructions   ///
+///  http://www.opencart.com  ///
+/////////////////////////////////
+
+
+NOTE: THIS IS FOR NEW INSTALL ONLY!
 IF UPGRADING YOUR EXISTING CART, BE SURE TO READ THE UPGRADE.TXT FILE INSTEAD
 
 
@@ -72,4 +79,3 @@ http://www.apachefriends.org/en/xampp.html
 http://www.ampps.com/
 http://www.usbwebserver.net
 http://www.wampserver.com/en/
-
